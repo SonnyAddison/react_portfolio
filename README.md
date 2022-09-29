@@ -48,23 +48,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ---
 ## Table of Contents (Optional)
 
-- [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)  
   
----
-
-## Installation
-
-
-  
----
-
-## Usage  
-
-
-
 ---
 ### Home Page 
 
