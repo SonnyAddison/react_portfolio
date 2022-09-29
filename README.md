@@ -75,13 +75,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ---
-
-
-
-
-
 ### GitHub Repository  
-https://github.com/SonnyAddison/react_portfolio  
+https://github.com/SonnyAddison/react_portfolio
+
+### GitHub Page
+https://sonnyaddison.github.io/react_portfolio/
 
 ---
 ## Credits
