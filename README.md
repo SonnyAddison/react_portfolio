@@ -1,4 +1,4 @@
-# textEditorMini
+# Sonny's Portfolio
 
 ![badmath](https://img.shields.io/bower/l/a)  
   
